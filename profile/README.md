@@ -1,6 +1,6 @@
 <span align="center">
 
-<a href="https://yourdocs.ca"><img width="500" alt="image" src="logo"></img></a>
+<a href="https://yourdocs.ca"><img width="500" alt="image" src="https://raw.githubusercontent.com/yourdocs-ca/.github/main/images/logo.png"></img></a>
 
 ---
 
